@@ -1,3 +1,2 @@
 # PageOne
---------------
-The front page of your internet
+A landing page for the internet, a site to redirect you to where you need to go.
